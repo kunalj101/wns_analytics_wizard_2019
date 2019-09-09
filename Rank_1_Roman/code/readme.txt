@@ -1,0 +1,2 @@
+You should just run the file 'solution.py' with the code in the folder with 'item_data.csv', 'test.csv', 'train.csv', 'view_log.csv'.
+After executing the code, you will receive a file with answers to test data 'answer.csv'.
